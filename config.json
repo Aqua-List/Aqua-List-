@@ -1,0 +1,23 @@
+{
+  "mongodb": {
+    "uri": ""
+  },
+  "discord": {
+    "clientId": "",
+    "clientSecret": "",
+    "botToken": "",
+    "serverId": "",
+    "logChannelId": ""
+  },
+  "nextAuth": {
+    "secret": "",
+    "url": "http://localhost:3000"
+  },
+  "website": {
+    "baseUrl": "http://localhost:3000"
+  },
+  "port": {
+    "website": 3000,
+    "bot": 3001
+  }
+}
